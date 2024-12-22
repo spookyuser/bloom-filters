@@ -105,6 +105,7 @@
   },
   "files": [
     "dist",
+    "src",
     "package.json"
   ],
   "scripts": {
